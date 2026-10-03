@@ -32,7 +32,7 @@ In compliance with the Chrome Web Store Minimum Permissions Policy, Night Mode P
 - **Purpose:** Used in the background service worker to update toolbar badge text (`ON` / `OFF`) based on whether the active website is enabled or on the user's exclusion list.
 - **Data Handling:** Tab URLs are processed strictly in local memory to match hostname against user-defined exclusion lists; URLs are never logged, stored, or transmitted.
 
-### Host Permissions (`<all_urls>`)
+### Host Permissions
 - **Purpose:** Required to inject stylesheets and dynamic CSS filter variables (such as Smart Invert and Pure Black OLED styling) across web pages to deliver night mode functionality.
 
 ---
@@ -49,4 +49,4 @@ Night Mode Pro has a single purpose: to provide users with an eye-friendly, cust
 
 ## 5. Contact
 If you have any questions or feedback regarding this Privacy Policy, please open an issue on our GitHub repository:
-[https://github.com/homeworldshadow/policies](https://github.com/homeworldshadow/policies)
+[https://github.com/homeworldshadow/policies/blob/main/night_mode/PRIVACY_POLICY.md](https://github.com/homeworldshadow/policies/blob/main/night_mode/PRIVACY_POLICY.md)
